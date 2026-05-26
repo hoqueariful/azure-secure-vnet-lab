@@ -129,7 +129,7 @@ To avoid any charges after completing the lab, navigate to PortfolioVNet-RG and 
 | Component / Step | Screenshot |
 | :--- | :--- |
 | **Resource Group** | <img src="Screenshots/PortfolioVNet-RG.PNG" width="400" alt="Resource Group"> |
-| **VNet Overview** | <img src="Screenshots/Portfolio-VNet-overview page.PNG" width="400" alt="VNet Overview"> |
+| **VNet Overview** | <img src="Screenshots/Portfolio-VNet overview page.PNG" width="400" alt="VNet Overview"> |
 | **Subnets** | <img src="Screenshots/Subnets panel inside Portfolio-VNet.PNG" width="400" alt="Subnets panel"> |
 | **NSG Rules** | <img src="Screenshots/Inbound security rules showing all four rules.PNG" width="400" alt="Inbound rules"> |
 
