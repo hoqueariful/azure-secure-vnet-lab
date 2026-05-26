@@ -65,11 +65,11 @@ Priority 300. Denies all inbound traffic from any source to the DB-Subnet (10.0.
 
 | Component | Name | Value |
 |---|---|---|
-| Resource Group | PortfolioVNet-RG | East US |
+| Resource Group | PortfolioVNet-RG | Central India |
 | Virtual Network | Portfolio-VNet | 10.0.0.0/16 |
 | Web Subnet | Web-Subnet | 10.0.1.0/24 |
 | DB Subnet | DB-Subnet | 10.0.2.0/24 |
-| Network Security Group | Portfolio-NSG | East US |
+| Network Security Group | Portfolio-NSG | Central India |
 
 ---
 
