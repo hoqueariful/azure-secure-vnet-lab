@@ -19,7 +19,7 @@ This lab was built entirely through the Azure Portal to demonstrate practical, h
 
 ## Architecture Diagram
 
-[![Portfolio-VNet Architecture](architecture-diagram.svg)](https://github.com/hoqueariful/azure-secure-vnet-lab/blob/main/architecture-diagram.png)
+architecture-diagram.png
 
 ---
 
